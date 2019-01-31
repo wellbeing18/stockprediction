@@ -1,4 +1,4 @@
-# stockprediction
+# Stock market prediciton
 <h1>Two sigma stock market prediction</h1>
 <h3>This project contains 4 files-</h3>
 <ul>
